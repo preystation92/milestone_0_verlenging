@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "naam": "Baldur's Gate 3",
+    "beschrijving": "Een epische RPG gebaseerd op Dungeons & Dragons, met een diepgaand verhaal en strategische turn-based gevechten.",
+    "releaseDatum": "2023-08-03",
+    "coverAfbeelding": "https://example.com/images/baldursgate3.jpg",
+    "genre": "RPG",
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X"
+    ],
+    "prijs": 59.99,
+    "multiplayer": false,
+    "beoordeling": 9.5,
+    "pegi": 18,
+    "talen": [
+      "Engels",
+      "Frans",
+      "Duits",
+      "Nederlands"
+    ],
+    "ontwikkelaar": {
+      "id": 101
+    }
+  },
+  {
+    "id": 2,
+    "naam": "Final Fantasy 7 Rebirth",
+    "beschrijving": "Het tweede deel van de remake van Final Fantasy 7, waarin Cloud en zijn bondgenoten een episch avontuur beleven.",
+    "releaseDatum": "2024-02-29",
+    "coverAfbeelding": "https://example.com/images/ff7rebirth.jpg",
+    "genre": "RPG",
+    "platforms": [
+      "PlayStation 5"
+    ],
+    "prijs": 69.99,
+    "multiplayer": false,
+    "beoordeling": 9.2,
+    "pegi": 16,
+    "talen": [
+      "Engels",
+      "Japans",
+      "Frans",
+      "Duits"
+    ],
+    "ontwikkelaar": {
+      "id": 102
+    }
+  },
+  {
+    "id": 3,
+    "naam": "Age Of Darkness: Final Stand",
+    "beschrijving": "Een real-time strategiegame waarin spelers een wereld verdedigen tegen een overweldigende duisternis.",
+    "releaseDatum": "2021-10-07",
+    "coverAfbeelding": "https://github.com/preystation92/milestone_0_verlenging/blob/main/images/age_of_darkness.jpg",
+    "genre": "Strategie",
+    "platforms": [
+      "PC"
+    ],
+    "prijs": 39.99,
+    "multiplayer": true,
+    "beoordeling": 8.0,
+    "pegi": 12,
+    "talen": [
+      "Engels",
+      "Spaans",
+      "Russisch"
+    ],
+    "ontwikkelaar": {
+      "id": 103
+    }
+  },
+  {
+    "id": 4,
+    "naam": "Metaphor: ReFantazio",
+    "beschrijving": "Een unieke fantasy RPG van de makers van Persona, met een diepgaand turn-based gevechtssysteem en een rijke wereld.",
+    "releaseDatum": "2024-10-11",
+    "coverAfbeelding": "https://example.com/images/metaphorrefantazio.jpg",
+    "genre": "RPG",
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X"
+    ],
+    "prijs": 59.99,
+    "multiplayer": false,
+    "beoordeling": 8.9,
+    "pegi": 16,
+    "talen": [
+      "Engels",
+      "Japans"
+    ],
+    "ontwikkelaar": {
+      "id": 104
+    }
+  },
+  {
+    "id": 5,
+    "naam": "The Witcher 3: Wild Hunt",
+    "beschrijving": "Een bekroonde open-wereld RPG waarin Geralt van Rivia op zoek gaat naar Ciri terwijl hij gevaren en monsters trotseert.",
+    "releaseDatum": "2015-05-19",
+    "coverAfbeelding": "https://example.com/images/witcher3.jpg",
+    "genre": "RPG",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X",
+      "Nintendo Switch"
+    ],
+    "prijs": 39.99,
+    "multiplayer": false,
+    "beoordeling": 9.8,
+    "pegi": 18,
+    "talen": [
+      "Engels",
+      "Pools",
+      "Duits",
+      "Frans",
+      "Russisch"
+    ],
+    "ontwikkelaar": {
+      "id": 105
+    }
+  },
+  {
+    "id": 6,
+    "naam": "Red Dead Redemption 2",
+    "beschrijving": "Een episch westerngame waarin spelers Arthur Morgan volgen in een wereld vol misdaad, eer en overleving.",
+    "releaseDatum": "2018-10-26",
+    "coverAfbeelding": "https://example.com/images/rdr2.jpg",
+    "genre": "Actie/Avontuur",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "prijs": 49.99,
+    "multiplayer": true,
+    "beoordeling": 9.7,
+    "pegi": 18,
+    "talen": [
+      "Engels",
+      "Frans",
+      "Duits",
+      "Spaans"
+    ],
+    "ontwikkelaar": {
+      "id": 106
+    }
+  },
+  {
+    "id": 7,
+    "naam": "Lies of P",
+    "beschrijving": "Een open-wereld RPG waarin spelers de Dragonborn zijn en de wereld van Tamriel verkennen.",
+    "releaseDatum": "2011-11-11",
+    "coverAfbeelding": "https://example.com/images/skyrim.jpg",
+    "genre": "RPG",
+    "platforms": [
+      "PC",
+      "PlayStation 3",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox 360",
+      "Xbox One",
+      "Xbox Series X",
+      "Nintendo Switch"
+    ],
+    "prijs": 29.99,
+    "multiplayer": false,
+    "beoordeling": 9.5,
+    "pegi": 18,
+    "talen": [
+      "Engels",
+      "Duits",
+      "Frans",
+      "Russisch"
+    ],
+    "ontwikkelaar": {
+      "id": 107
+    }
+  },
+  {
+    "id": 8,
+    "naam": "Total War: Rogue Trader",
+    "beschrijving": "Een strategische oorlogsgame waarin legers van verschillende Warhammer-facties het tegen elkaar opnemen.",
+    "releaseDatum": "2022-02-17",
+    "coverAfbeelding": "https://example.com/images/totalwarrogue.jpg",
+    "genre": "Strategie",
+    "platforms": [
+      "PC"
+    ],
+    "prijs": 59.99,
+    "multiplayer": true,
+    "beoordeling": 8.7,
+    "pegi": 16,
+    "talen": [
+      "Engels",
+      "Duits",
+      "Frans",
+      "Russisch",
+      "Chinees"
+    ],
+    "ontwikkelaar": {
+      "id": 108
+    }
+  },
+  {
+    "id": 9,
+    "naam": "Fallout 4",
+    "beschrijving": "Een post-apocalyptische RPG waarin spelers de overlevenden van een nucleaire ramp helpen en hun eigen pad kiezen.",
+    "releaseDatum": "2015-11-10",
+    "coverAfbeelding": "https://example.com/images/fallout4.jpg",
+    "genre": "RPG",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "prijs": 29.99,
+    "multiplayer": false,
+    "beoordeling": 8.9,
+    "pegi": 18,
+    "talen": [
+      "Engels",
+      "Duits",
+      "Frans",
+      "Russisch"
+    ],
+    "ontwikkelaar": {
+      "id": 109
+    }
+  },
+  {
+    "id": 10,
+    "naam": "Black Myth: Wukong",
+    "beschrijving": "Een actie-RPG gebaseerd op de Chinese mythologie, waarin spelers als Sun Wukong krachtige vijanden bestrijden.",
+    "releaseDatum": "2024-08-20",
+    "coverAfbeelding": "https://example.com/images/blackmythwukong.jpg",
+    "genre": "Actie/RPG",
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X"
+    ],
+    "prijs": 69.99,
+    "multiplayer": false,
+    "beoordeling": 9.3,
+    "pegi": 16,
+    "talen": [
+      "Engels",
+      "Chinees",
+      "Japans"
+    ],
+    "ontwikkelaar": {
+      "id": 110
+    }
+  }
+]
