@@ -1,0 +1,102 @@
+[
+  {
+    "id": 101,
+    "naam": "Larian Studios",
+    "opgericht": 1996,
+    "website": "https://larian.com",
+    "logo": "https://example.com/images/larian-logo.png",
+    "hoofdzetel": "Gent, België",
+    "aantalWerknemers": 400,
+    "actief": true
+  },
+  {
+    "id": 102,
+    "naam": "Square Enix",
+    "opgericht": 1986,
+    "website": "https://www.square-enix.com",
+    "logo": "https://example.com/images/squareenix-logo.png",
+    "hoofdzetel": "Tokyo, Japan",
+    "aantalWerknemers": 5000,
+    "actief": true
+  },
+  {
+    "id": 103,
+    "naam": "PlaySide Studios",
+    "opgericht": 2011,
+    "website": "https://www.playsidestudios.com",
+    "logo": "https://example.com/images/playside-logo.png",
+    "hoofdzetel": "Melbourne, Australië",
+    "aantalWerknemers": 150,
+    "actief": true
+  },
+  {
+    "id": 104,
+    "naam": "Atlus",
+    "opgericht": 1986,
+    "website": "https://www.atlus.com",
+    "logo": "https://example.com/images/atlus-logo.png",
+    "hoofdzetel": "Tokyo, Japan",
+    "aantalWerknemers": 300,
+    "actief": true
+  },
+  {
+    "id": 105,
+    "naam": "CD Projekt Red",
+    "opgericht": 2002,
+    "website": "https://www.cdprojektred.com",
+    "logo": "https://example.com/images/cdprojektred-logo.png",
+    "hoofdzetel": "Warschau, Polen",
+    "aantalWerknemers": 1200,
+    "actief": true
+  },
+  {
+    "id": 106,
+    "naam": "Rockstar Games",
+    "opgericht": 1998,
+    "website": "https://www.rockstargames.com",
+    "logo": "https://example.com/images/rockstar-logo.png",
+    "hoofdzetel": "New York, VS",
+    "aantalWerknemers": 2000,
+    "actief": true
+  },
+  {
+    "id": 107,
+    "naam": "Bethesda Game Studios",
+    "opgericht": 2001,
+    "website": "https://bethesda.net",
+    "logo": "https://example.com/images/bethesda-logo.png",
+    "hoofdzetel": "Rockville, Maryland, VS",
+    "aantalWerknemers": 400,
+    "actief": true
+  },
+  {
+    "id": 108,
+    "naam": "Creative Assembly",
+    "opgericht": 1987,
+    "website": "https://www.creative-assembly.com",
+    "logo": "https://example.com/images/creativeassembly-logo.png",
+    "hoofdzetel": "Horsham, Verenigd Koninkrijk",
+    "aantalWerknemers": 800,
+    "actief": true
+  },
+  {
+    "id": 109,
+    "naam": "Bethesda Softworks",
+    "opgericht": 1986,
+    "website": "https://bethesda.net",
+    "logo": "https://example.com/images/bethesda-logo.png",
+    "hoofdzetel": "Rockville, Maryland, VS",
+    "aantalWerknemers": 1500,
+    "actief": true
+  },
+  {
+    "id": 110,
+    "naam": "Game Science",
+    "opgericht": 2014,
+    "website": "https://www.gamescience.com.cn",
+    "logo": "https://example.com/images/gamescience-logo.png",
+    "hoofdzetel": "Shenzhen, China",
+    "aantalWerknemers": 200,
+    "actief": true
+  }
+]
