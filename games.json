@@ -4,7 +4,7 @@
     "naam": "Baldur's Gate 3",
     "beschrijving": "Een epische RPG gebaseerd op Dungeons & Dragons, met een diepgaand verhaal en strategische turn-based gevechten.",
     "releaseDatum": "2023-08-03",
-    "coverAfbeelding": "https://example.com/images/baldursgate3.jpg",
+    "coverAfbeelding": "https://raw.githubusercontent.com/preystation92/milestone_0_verlenging/refs/heads/main/images/baldurs_gate_3.jpg",
     "genre": "RPG",
     "platforms": [
       "PC",
@@ -30,7 +30,7 @@
     "naam": "Final Fantasy 7 Rebirth",
     "beschrijving": "Het tweede deel van de remake van Final Fantasy 7, waarin Cloud en zijn bondgenoten een episch avontuur beleven.",
     "releaseDatum": "2024-02-29",
-    "coverAfbeelding": "https://example.com/images/ff7rebirth.jpg",
+    "coverAfbeelding": "https://raw.githubusercontent.com/preystation92/milestone_0_verlenging/refs/heads/main/images/ff7.jpg",
     "genre": "RPG",
     "platforms": [
       "PlayStation 5"
@@ -54,7 +54,7 @@
     "naam": "Age Of Darkness: Final Stand",
     "beschrijving": "Een real-time strategiegame waarin spelers een wereld verdedigen tegen een overweldigende duisternis.",
     "releaseDatum": "2021-10-07",
-    "coverAfbeelding": "https://github.com/preystation92/milestone_0_verlenging/blob/main/images/age_of_darkness.jpg",
+    "coverAfbeelding": "https://raw.githubusercontent.com/preystation92/milestone_0_verlenging/refs/heads/main/images/age_of_darkness.jpg",
     "genre": "Strategie",
     "platforms": [
       "PC"
@@ -77,7 +77,7 @@
     "naam": "Metaphor: ReFantazio",
     "beschrijving": "Een unieke fantasy RPG van de makers van Persona, met een diepgaand turn-based gevechtssysteem en een rijke wereld.",
     "releaseDatum": "2024-10-11",
-    "coverAfbeelding": "https://example.com/images/metaphorrefantazio.jpg",
+    "coverAfbeelding": "https://raw.githubusercontent.com/preystation92/milestone_0_verlenging/refs/heads/main/images/metaphor_refantazio.jpg",
     "genre": "RPG",
     "platforms": [
       "PC",
@@ -101,7 +101,7 @@
     "naam": "The Witcher 3: Wild Hunt",
     "beschrijving": "Een bekroonde open-wereld RPG waarin Geralt van Rivia op zoek gaat naar Ciri terwijl hij gevaren en monsters trotseert.",
     "releaseDatum": "2015-05-19",
-    "coverAfbeelding": "https://example.com/images/witcher3.jpg",
+    "coverAfbeelding": "https://raw.githubusercontent.com/preystation92/milestone_0_verlenging/refs/heads/main/images/the-witcher-3.jpg.png",
     "genre": "RPG",
     "platforms": [
       "PC",
@@ -131,7 +131,7 @@
     "naam": "Red Dead Redemption 2",
     "beschrijving": "Een episch westerngame waarin spelers Arthur Morgan volgen in een wereld vol misdaad, eer en overleving.",
     "releaseDatum": "2018-10-26",
-    "coverAfbeelding": "https://example.com/images/rdr2.jpg",
+    "coverAfbeelding": "https://raw.githubusercontent.com/preystation92/milestone_0_verlenging/refs/heads/main/images/red_dead_redemption_2.jpg",
     "genre": "Actie/Avontuur",
     "platforms": [
       "PC",
@@ -157,7 +157,7 @@
     "naam": "Lies of P",
     "beschrijving": "Een open-wereld RPG waarin spelers de Dragonborn zijn en de wereld van Tamriel verkennen.",
     "releaseDatum": "2011-11-11",
-    "coverAfbeelding": "https://example.com/images/skyrim.jpg",
+    "coverAfbeelding": "https://raw.githubusercontent.com/preystation92/milestone_0_verlenging/refs/heads/main/images/lies_of_p.jpg",
     "genre": "RPG",
     "platforms": [
       "PC",
@@ -185,10 +185,10 @@
   },
   {
     "id": 8,
-    "naam": "Total War: Rogue Trader",
+    "naam": "Warhammer 40k: Rogue Trader",
     "beschrijving": "Een strategische oorlogsgame waarin legers van verschillende Warhammer-facties het tegen elkaar opnemen.",
     "releaseDatum": "2022-02-17",
-    "coverAfbeelding": "https://example.com/images/totalwarrogue.jpg",
+    "coverAfbeelding": "https://raw.githubusercontent.com/preystation92/milestone_0_verlenging/refs/heads/main/images/rogue_trader.jpg",
     "genre": "Strategie",
     "platforms": [
       "PC"
@@ -213,7 +213,7 @@
     "naam": "Fallout 4",
     "beschrijving": "Een post-apocalyptische RPG waarin spelers de overlevenden van een nucleaire ramp helpen en hun eigen pad kiezen.",
     "releaseDatum": "2015-11-10",
-    "coverAfbeelding": "https://example.com/images/fallout4.jpg",
+    "coverAfbeelding": "https://raw.githubusercontent.com/preystation92/milestone_0_verlenging/refs/heads/main/images/fallout_4.jpg",
     "genre": "RPG",
     "platforms": [
       "PC",
@@ -239,7 +239,7 @@
     "naam": "Black Myth: Wukong",
     "beschrijving": "Een actie-RPG gebaseerd op de Chinese mythologie, waarin spelers als Sun Wukong krachtige vijanden bestrijden.",
     "releaseDatum": "2024-08-20",
-    "coverAfbeelding": "https://example.com/images/blackmythwukong.jpg",
+    "coverAfbeelding": "https://raw.githubusercontent.com/preystation92/milestone_0_verlenging/refs/heads/main/images/black_myth_wukong.jpg",
     "genre": "Actie/RPG",
     "platforms": [
       "PC",
