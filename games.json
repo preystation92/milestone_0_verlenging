@@ -131,7 +131,7 @@
     "naam": "Red Dead Redemption 2",
     "beschrijving": "Een episch westerngame waarin spelers Arthur Morgan volgen in een wereld vol misdaad, eer en overleving.",
     "releaseDatum": "2018-10-26",
-    "coverAfbeelding": "https://github.com/preystation92/milestone_0_verlenging/blob/main/images/games/red_dead_redemption_2.jpg",
+    "coverAfbeelding": "https://raw.githubusercontent.com/preystation92/milestone_0_verlenging/refs/heads/main/images/games/red_dead_redemption_2.jpg",
     "genre": "Actie/Avontuur",
     "platforms": [
       "PC",
