@@ -157,7 +157,7 @@
     "naam": "Lies of P",
     "beschrijving": "Een open-wereld RPG waarin spelers de Dragonborn zijn en de wereld van Tamriel verkennen.",
     "releaseDatum": "2011-11-11",
-    "coverAfbeelding": "https://github.com/preystation92/milestone_0_verlenging/blob/main/images/games/lies_of_p.jpg",
+    "coverAfbeelding": "https://raw.githubusercontent.com/preystation92/milestone_0_verlenging/refs/heads/main/images/games/lies_of_p.jpg",
     "genre": "RPG",
     "platforms": [
       "PC",
